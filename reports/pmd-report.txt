@@ -1,0 +1,314 @@
+src/Tetris/Tetris.java:1:	Package name contains upper case characters
+src/Tetris/Tetris.java:1:	Package name contains upper case characters
+src/Tetris/Tetris.java:5:	Classes implementing Serializable should set a serialVersionUID
+src/Tetris/Tetris.java:5:	Classes implementing Serializable should set a serialVersionUID
+src/Tetris/Tetris.java:5:	Header comments are required
+src/Tetris/Tetris.java:5:	Header comments are required
+src/Tetris/Tetris.java:8:	It is a good practice to call super() in a constructor
+src/Tetris/Tetris.java:8:	It is a good practice to call super() in a constructor
+src/Tetris/Tetris.java:8:	To avoid mistakes add a comment at the beginning of the Tetris constructor if you want a default access modifier
+src/Tetris/Tetris.java:8:	To avoid mistakes add a comment at the beginning of the Tetris constructor if you want a default access modifier
+src/Tetris/Tetris.java:11:	Local variable 'worldMap' could be declared final
+src/Tetris/Tetris.java:11:	Local variable 'worldMap' could be declared final
+src/Tetris/Tetris.java:19:	Parameter 'args' is not assigned and could be declared final
+src/Tetris/Tetris.java:19:	Parameter 'args' is not assigned and could be declared final
+src/Tetris/Tetris.java:19:	Public method and constructor comments are required
+src/Tetris/Tetris.java:19:	Public method and constructor comments are required
+src/Tetris/WorldMap.java:1:	Package name contains upper case characters
+src/Tetris/WorldMap.java:1:	Package name contains upper case characters
+src/Tetris/WorldMap.java:14:	Classes implementing Serializable should set a serialVersionUID
+src/Tetris/WorldMap.java:14:	Classes implementing Serializable should set a serialVersionUID
+src/Tetris/WorldMap.java:14:	Header comments are required
+src/Tetris/WorldMap.java:14:	Header comments are required
+src/Tetris/WorldMap.java:14:	Possible God Class (WMC=108, ATFD=78, TCC=17.538%)
+src/Tetris/WorldMap.java:14:	Possible God Class (WMC=108, ATFD=78, TCC=17.538%)
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a Modified Cyclomatic Complexity of 3 (Highest = 49).
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a Modified Cyclomatic Complexity of 3 (Highest = 49).
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a Standard Cyclomatic Complexity of 4 (Highest = 49).
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a Standard Cyclomatic Complexity of 4 (Highest = 49).
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a total cyclomatic complexity of 108 (highest 67).
+src/Tetris/WorldMap.java:14:	The class 'WorldMap' has a total cyclomatic complexity of 108 (highest 67).
+src/Tetris/WorldMap.java:17:	Avoid using redundant field initializer for 'STOP'
+src/Tetris/WorldMap.java:17:	Avoid using redundant field initializer for 'STOP'
+src/Tetris/WorldMap.java:17:	Field comments are required
+src/Tetris/WorldMap.java:17:	Field comments are required
+src/Tetris/WorldMap.java:17:	The field name 'STOP' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:17:	The field name 'STOP' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:17:	The field name indicates a constant but its modifiers do not
+src/Tetris/WorldMap.java:17:	The field name indicates a constant but its modifiers do not
+src/Tetris/WorldMap.java:17:	Variables should start with a lowercase character, 'STOP' starts with uppercase character.
+src/Tetris/WorldMap.java:17:	Variables should start with a lowercase character, 'STOP' starts with uppercase character.
+src/Tetris/WorldMap.java:20:	Field comments are required
+src/Tetris/WorldMap.java:20:	Field comments are required
+src/Tetris/WorldMap.java:23:	Field comments are required
+src/Tetris/WorldMap.java:23:	Field comments are required
+src/Tetris/WorldMap.java:26:	Field comments are required
+src/Tetris/WorldMap.java:26:	Field comments are required
+src/Tetris/WorldMap.java:29:	Field comments are required
+src/Tetris/WorldMap.java:29:	Field comments are required
+src/Tetris/WorldMap.java:35:	A getX() method which returns a boolean should be named isX()
+src/Tetris/WorldMap.java:35:	A getX() method which returns a boolean should be named isX()
+src/Tetris/WorldMap.java:38:	Parameter 'sTOP' is not assigned and could be declared final
+src/Tetris/WorldMap.java:38:	Parameter 'sTOP' is not assigned and could be declared final
+src/Tetris/WorldMap.java:46:	Parameter 'random' is not assigned and could be declared final
+src/Tetris/WorldMap.java:46:	Parameter 'random' is not assigned and could be declared final
+src/Tetris/WorldMap.java:54:	Parameter 'currentXing' is not assigned and could be declared final
+src/Tetris/WorldMap.java:54:	Parameter 'currentXing' is not assigned and could be declared final
+src/Tetris/WorldMap.java:58:	Public method and constructor comments are required
+src/Tetris/WorldMap.java:58:	Public method and constructor comments are required
+src/Tetris/WorldMap.java:62:	Parameter 'direct' is not assigned and could be declared final
+src/Tetris/WorldMap.java:62:	Parameter 'direct' is not assigned and could be declared final
+src/Tetris/WorldMap.java:62:	Public method and constructor comments are required
+src/Tetris/WorldMap.java:62:	Public method and constructor comments are required
+src/Tetris/WorldMap.java:70:	Parameter 'stop' is not assigned and could be declared final
+src/Tetris/WorldMap.java:70:	Parameter 'stop' is not assigned and could be declared final
+src/Tetris/WorldMap.java:75:	Returning 'nextStatus' may expose an internal array.
+src/Tetris/WorldMap.java:75:	Returning 'nextStatus' may expose an internal array.
+src/Tetris/WorldMap.java:78:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/WorldMap.java:78:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/WorldMap.java:78:	Parameter 'nextStatus' is not assigned and could be declared final
+src/Tetris/WorldMap.java:78:	Parameter 'nextStatus' is not assigned and could be declared final
+src/Tetris/WorldMap.java:78:	The user-supplied array 'nextStatus' is stored directly.
+src/Tetris/WorldMap.java:78:	The user-supplied array 'nextStatus' is stored directly.
+src/Tetris/WorldMap.java:83:	Returning 'tempStatus' may expose an internal array.
+src/Tetris/WorldMap.java:83:	Returning 'tempStatus' may expose an internal array.
+src/Tetris/WorldMap.java:86:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/WorldMap.java:86:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/WorldMap.java:86:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/WorldMap.java:86:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/WorldMap.java:86:	The user-supplied array 'tempStatus' is stored directly.
+src/Tetris/WorldMap.java:86:	The user-supplied array 'tempStatus' is stored directly.
+src/Tetris/WorldMap.java:94:	Parameter 'timer' is not assigned and could be declared final
+src/Tetris/WorldMap.java:94:	Parameter 'timer' is not assigned and could be declared final
+src/Tetris/WorldMap.java:106:	The instance method name 'getDELAY_TIME' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:106:	The instance method name 'getDELAY_TIME' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:111:	Field comments are required
+src/Tetris/WorldMap.java:111:	Field comments are required
+src/Tetris/WorldMap.java:111:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:111:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:111:	The final field name 'ROW' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:111:	The final field name 'ROW' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:111:	This final field could be made static
+src/Tetris/WorldMap.java:111:	This final field could be made static
+src/Tetris/WorldMap.java:114:	Field comments are required
+src/Tetris/WorldMap.java:114:	Field comments are required
+src/Tetris/WorldMap.java:114:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:114:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:114:	The final field name 'COLUMN' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:114:	The final field name 'COLUMN' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:114:	This final field could be made static
+src/Tetris/WorldMap.java:114:	This final field could be made static
+src/Tetris/WorldMap.java:117:	Field comments are required
+src/Tetris/WorldMap.java:117:	Field comments are required
+src/Tetris/WorldMap.java:117:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:117:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:120:	Field comments are required
+src/Tetris/WorldMap.java:120:	Field comments are required
+src/Tetris/WorldMap.java:120:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:120:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:123:	Field comments are required
+src/Tetris/WorldMap.java:123:	Field comments are required
+src/Tetris/WorldMap.java:123:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:123:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:126:	Field comments are required
+src/Tetris/WorldMap.java:126:	Field comments are required
+src/Tetris/WorldMap.java:126:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:126:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Tetris/WorldMap.java:126:	The final field name 'DELAY_TIME' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:126:	The final field name 'DELAY_TIME' doesn't match '[a-z][a-zA-Z0-9]*'
+src/Tetris/WorldMap.java:126:	This final field could be made static
+src/Tetris/WorldMap.java:126:	This final field could be made static
+src/Tetris/WorldMap.java:131:	It is a good practice to call super() in a constructor
+src/Tetris/WorldMap.java:131:	It is a good practice to call super() in a constructor
+src/Tetris/WorldMap.java:142:	Avoid variables with short names like e
+src/Tetris/WorldMap.java:142:	Avoid variables with short names like e
+src/Tetris/WorldMap.java:142:	Parameter 'e' is not assigned and could be declared final
+src/Tetris/WorldMap.java:142:	Parameter 'e' is not assigned and could be declared final
+src/Tetris/WorldMap.java:143:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:143:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:156:	Avoid variables with short names like g
+src/Tetris/WorldMap.java:156:	Avoid variables with short names like g
+src/Tetris/WorldMap.java:156:	Parameter 'g' is not assigned and could be declared final
+src/Tetris/WorldMap.java:156:	Parameter 'g' is not assigned and could be declared final
+src/Tetris/WorldMap.java:158:	Found 'DU'-anomaly for variable 'length' (lines '158'-'168').
+src/Tetris/WorldMap.java:158:	Found 'DU'-anomaly for variable 'length' (lines '158'-'168').
+src/Tetris/WorldMap.java:158:	Local variable 'length' could be declared final
+src/Tetris/WorldMap.java:158:	Local variable 'length' could be declared final
+src/Tetris/WorldMap.java:161:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:161:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:174:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:174:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:186:	Avoid really long methods.
+src/Tetris/WorldMap.java:186:	Avoid really long methods.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus' has a Modified Cyclomatic Complexity of 49.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus' has a Modified Cyclomatic Complexity of 49.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus' has a Standard Cyclomatic Complexity of 49.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus' has a Standard Cyclomatic Complexity of 49.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has a NCSS line count of 119.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has a NCSS line count of 119.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has a cyclomatic complexity of 67.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has a cyclomatic complexity of 67.
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has an NPath complexity of 505651
+src/Tetris/WorldMap.java:186:	The method 'changeCellStatus()' has an NPath complexity of 505651
+src/Tetris/WorldMap.java:186:	The method changeCellStatus() has an NCSS line count of 119
+src/Tetris/WorldMap.java:186:	The method changeCellStatus() has an NCSS line count of 119
+src/Tetris/WorldMap.java:190:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:190:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:193:	Found 'DU'-anomaly for variable 'temp' (lines '193'-'377').
+src/Tetris/WorldMap.java:193:	Found 'DU'-anomaly for variable 'temp' (lines '193'-'377').
+src/Tetris/WorldMap.java:193:	Local variable 'temp' could be declared final
+src/Tetris/WorldMap.java:193:	Local variable 'temp' could be declared final
+src/Tetris/WorldMap.java:205:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:205:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:220:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:220:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:223:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:223:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:235:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:235:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:239:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:239:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:249:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:249:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:250:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:250:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:261:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:261:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:265:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:265:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:274:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:274:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:278:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:278:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:289:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:289:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:290:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:290:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:300:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:300:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:304:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:304:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:313:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:313:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:317:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:317:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:328:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:328:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:329:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:329:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:330:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:330:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:342:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:342:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:346:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:346:	A method should have only one exit point, and that should be the last statement in the method
+src/Tetris/WorldMap.java:355:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:355:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:383:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:383:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:385:	Found 'DD'-anomaly for variable 'tempNum' (lines '385'-'388').
+src/Tetris/WorldMap.java:385:	Found 'DD'-anomaly for variable 'tempNum' (lines '385'-'388').
+src/Tetris/WorldMap.java:387:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:387:	Avoid using Literals in Conditional Statements
+src/Tetris/WorldMap.java:387:	Avoid using if statements without curly braces
+src/Tetris/WorldMap.java:387:	Avoid using if statements without curly braces
+src/Tetris/WorldMap.java:388:	Found 'DD'-anomaly for variable 'tempNum' (lines '388'-'388').
+src/Tetris/WorldMap.java:388:	Found 'DD'-anomaly for variable 'tempNum' (lines '388'-'388').
+src/Tetris/WorldMap.java:388:	This statement should have braces
+src/Tetris/WorldMap.java:388:	This statement should have braces
+src/Tetris/WorldMap.java:419:	Avoid variables with short names like x
+src/Tetris/WorldMap.java:419:	Avoid variables with short names like x
+src/Tetris/WorldMap.java:419:	Local variable 'x' could be declared final
+src/Tetris/WorldMap.java:419:	Local variable 'x' could be declared final
+src/Tetris/WorldMap.java:420:	Local variable 'number' could be declared final
+src/Tetris/WorldMap.java:420:	Local variable 'number' could be declared final
+src/Tetris/WorldMap.java:425:	Avoid variables with short names like s
+src/Tetris/WorldMap.java:425:	Avoid variables with short names like s
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'428').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'428').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'436').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'436').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'444').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'444').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'452').
+src/Tetris/WorldMap.java:425:	Found 'DD'-anomaly for variable 's' (lines '425'-'452').
+src/Tetris/WorldMap.java:426:	A switch statement does not contain a break
+src/Tetris/WorldMap.java:426:	A switch statement does not contain a break
+src/Tetris/WorldMap.java:426:	Switch statements should have a default label
+src/Tetris/WorldMap.java:426:	Switch statements should have a default label
+src/Tetris/WorldMap.java:467:	Each class should declare at least one constructor
+src/Tetris/WorldMap.java:467:	Each class should declare at least one constructor
+src/Tetris/WorldMap.java:470:	Avoid variables with short names like e
+src/Tetris/WorldMap.java:470:	Avoid variables with short names like e
+src/Tetris/WorldMap.java:470:	Parameter 'e' is not assigned and could be declared final
+src/Tetris/WorldMap.java:470:	Parameter 'e' is not assigned and could be declared final
+src/Tetris/WorldMap.java:470:	The method 'keyPressed(KeyEvent)' has a cyclomatic complexity of 11.
+src/Tetris/WorldMap.java:470:	The method 'keyPressed(KeyEvent)' has a cyclomatic complexity of 11.
+src/Tetris/WorldMap.java:471:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:471:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:474:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:474:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:478:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:478:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:482:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:482:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/Tetris/WorldMap.java:489:	Document empty method body
+src/Tetris/WorldMap.java:489:	Document empty method body
+src/Tetris/WorldMap.java:489:	Parameter 'arg0' is not assigned and could be declared final
+src/Tetris/WorldMap.java:489:	Parameter 'arg0' is not assigned and could be declared final
+src/Tetris/WorldMap.java:494:	Document empty method body
+src/Tetris/WorldMap.java:494:	Document empty method body
+src/Tetris/WorldMap.java:494:	Parameter 'arg0' is not assigned and could be declared final
+src/Tetris/WorldMap.java:494:	Parameter 'arg0' is not assigned and could be declared final
+src/Tetris/Xing.java:1:	Package name contains upper case characters
+src/Tetris/Xing.java:1:	Package name contains upper case characters
+src/Tetris/Xing.java:5:	Avoid short class names like Xing
+src/Tetris/Xing.java:5:	Avoid short class names like Xing
+src/Tetris/Xing.java:5:	Each class should declare at least one constructor
+src/Tetris/Xing.java:5:	Each class should declare at least one constructor
+src/Tetris/Xing.java:5:	Header comments are required
+src/Tetris/Xing.java:5:	Header comments are required
+src/Tetris/Xing.java:6:	Field comments are required
+src/Tetris/Xing.java:6:	Field comments are required
+src/Tetris/Xing.java:6:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:6:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:7:	Field comments are required
+src/Tetris/Xing.java:7:	Field comments are required
+src/Tetris/Xing.java:8:	Avoid variables with short names like x
+src/Tetris/Xing.java:8:	Avoid variables with short names like x
+src/Tetris/Xing.java:8:	Field comments are required
+src/Tetris/Xing.java:8:	Field comments are required
+src/Tetris/Xing.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:8:	To avoid mistakes add a comment at the beginning of the x field if you want a default access modifier
+src/Tetris/Xing.java:8:	To avoid mistakes add a comment at the beginning of the x field if you want a default access modifier
+src/Tetris/Xing.java:8:	Use explicit scoping instead of the default package private level
+src/Tetris/Xing.java:8:	Use explicit scoping instead of the default package private level
+src/Tetris/Xing.java:9:	Avoid variables with short names like y
+src/Tetris/Xing.java:9:	Avoid variables with short names like y
+src/Tetris/Xing.java:9:	Field comments are required
+src/Tetris/Xing.java:9:	Field comments are required
+src/Tetris/Xing.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Tetris/Xing.java:9:	To avoid mistakes add a comment at the beginning of the y field if you want a default access modifier
+src/Tetris/Xing.java:9:	To avoid mistakes add a comment at the beginning of the y field if you want a default access modifier
+src/Tetris/Xing.java:9:	Use explicit scoping instead of the default package private level
+src/Tetris/Xing.java:9:	Use explicit scoping instead of the default package private level
+src/Tetris/Xing.java:11:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:11:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:11:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:11:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:11:	Public method and constructor comments are required
+src/Tetris/Xing.java:11:	Public method and constructor comments are required
+src/Tetris/Xing.java:23:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:23:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:23:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:23:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:23:	Public method and constructor comments are required
+src/Tetris/Xing.java:23:	Public method and constructor comments are required
+src/Tetris/Xing.java:36:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:36:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Tetris/Xing.java:36:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:36:	Parameter 'tempStatus' is not assigned and could be declared final
+src/Tetris/Xing.java:36:	Public method and constructor comments are required
+src/Tetris/Xing.java:36:	Public method and constructor comments are required
